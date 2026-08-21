@@ -1,2 +1,1 @@
-# assets
-Course resources
+# Repository of course resources
