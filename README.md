@@ -20,15 +20,15 @@ Um bom resumo deve ter:
 
 ## Introdução
 A introdução deve ter as seguintes partes: <br>
-- **Motivação:** É aqui que você apresenta a ideia por trás do seu projeto. Recomenda-se uma narrativa do geral para o específico, começando com uma descrição ampla do tema e avançando para paradigmas, experimentos, aplicações ou fenômenos mais detalhados que serão estudados.
-- **Revisão bibliográfica:** Pesquise o tema utilizando, pelo menos, cinco fontes (as mesmas que devem ser úteis para a seção de Discussão). Utilize fontes confiáveis, por exemplo, Google Acadêmico ou publicações revisadas por pares (blogs, repositorios, publicações online, etc.).
+- **Motivação:** Apresentar a ideia por trás do projeto. Recomenda-se uma narrativa do geral para o específico, começando com uma descrição ampla do tema e avançando para os paradigmas, experimentos, aplicações ou fenômenos mais detalhados que serão estudados.
+- **Revisão bibliográfica:** Pesquise o tema utilizando, pelo menos, cinco fontes (as mesmas que devem ser úteis para a seção de Discussão). Utilize literatura confiável, por exemplo, Google Acadêmico ou publicações revisadas por pares (blogs, repositorios, publicações online, etc.).
 - **Objetivos:** Qual é o propósito do projeto no qual você trabalhará ao longo das próximas cinco semanas? Exemplo: entender e aplicar o conceito de ..., experimentar um conjunto de tecnologias (*software stack*), analisar o estado da arte em ..., etc.
 
 ## Metodologia
 - **Conjunto de dados (*Dataset*):** Descreva os dados ou os experimentos que serão realizados. Explicar se eles foram coletados por você ou extraídos da literatura.
 Uma Análise Exploratória de Dados (AED) ajuda a descrever os dados.
 - **Modelos:** Algoritmos, conjunto de tecnologias (*software stack*), infraestrutura (real ou simulada), etc.
-- **Métricas:** Como você verificará se o(s) objetivo(s) do projeto foi(foram) alcançado(s)? (qualitativas, quantitativas)
+- **Métricas:** Como você verificará se os objetivos do projeto foram alcançados? (qualitativas, quantitativas)
 - **Fluxograma:** Um diagrama das fases do projeto (em uma imagem).
 
 ## Resultados
@@ -37,10 +37,10 @@ Uma Análise Exploratória de Dados (AED) ajuda a descrever os dados.
 - Multimídia (vídeos, imagens, áudio)
 
 ## Discussão
-Análise com base na literatura utilizada na seção de Introdução!
+Análise com base na literatura utilizada na Introdução.
 
 ## Conclusão
-Em que medida o(s) objetivo(s) foi(foram) alcançado(s)?
+Em que medida os objetivos foram alcançados?
 
 ## Referências
 No formato ABNT
